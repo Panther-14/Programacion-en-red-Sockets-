@@ -1,8 +1,0 @@
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\bin\Debug\Cliente.exe.config
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\bin\Debug\Cliente.exe
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\bin\Debug\Cliente.pdb
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\obj\Debug\Cliente.exe
-C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\Sockets\Cliente\obj\Debug\Cliente.pdb

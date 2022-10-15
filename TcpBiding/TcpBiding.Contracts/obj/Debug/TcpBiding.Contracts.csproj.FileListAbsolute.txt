@@ -1,0 +1,7 @@
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\obj\Debug\TcpBiding.Contracts.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\obj\Debug\TcpBiding.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\bin\Debug\TcpBiding.Contracts.dll.config
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\bin\Debug\TcpBiding.Contracts.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\bin\Debug\TcpBiding.Contracts.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\obj\Debug\TcpBiding.Contracts.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Contracts\obj\Debug\TcpBiding.Contracts.pdb

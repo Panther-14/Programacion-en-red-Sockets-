@@ -1,0 +1,12 @@
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\obj\Debug\TcpBiding.Client.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\obj\Debug\TcpBiding.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\obj\Debug\TcpBiding.Client.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\bin\Debug\TcpBiding.Client.exe.config
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\bin\Debug\TcpBiding.Client.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\bin\Debug\TcpBiding.Client.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\bin\Debug\TcpBiding.Contracts.dll
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\bin\Debug\TcpBiding.Contracts.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\bin\Debug\TcpBiding.Contracts.dll.config
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\obj\Debug\TcpBiding.Client.csproj.CopyComplete
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\obj\Debug\TcpBiding.Client.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\TcpBiding\TcpBiding.Client\obj\Debug\TcpBiding.Client.pdb

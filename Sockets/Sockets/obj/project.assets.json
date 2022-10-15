@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "System.Threading.RateLimiting/7.0.0-rc.1.22426.10": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Threading.RateLimiting.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Threading.RateLimiting.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Threading.RateLimiting/7.0.0-rc.1.22426.10": {
+      "sha512": "g8kDcvwpt8lM4IexbgdviO9+M+M39OuYPspl6GNSpidvcYA7JEk6GAs+wKgu70kXl8VzgXSwuWKCVXDytvZf5A==",
+      "type": "package",
+      "path": "system.threading.ratelimiting/7.0.0-rc.1.22426.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Threading.RateLimiting.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Threading.RateLimiting.targets",
+        "lib/net462/System.Threading.RateLimiting.dll",
+        "lib/net462/System.Threading.RateLimiting.xml",
+        "lib/net6.0/System.Threading.RateLimiting.dll",
+        "lib/net6.0/System.Threading.RateLimiting.xml",
+        "lib/net7.0/System.Threading.RateLimiting.dll",
+        "lib/net7.0/System.Threading.RateLimiting.xml",
+        "lib/netstandard2.0/System.Threading.RateLimiting.dll",
+        "lib/netstandard2.0/System.Threading.RateLimiting.xml",
+        "system.threading.ratelimiting.7.0.0-rc.1.22426.10.nupkg.sha512",
+        "system.threading.ratelimiting.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "System.Threading.RateLimiting >= 7.0.0-rc.1.22426.10"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yo\\Desktop\\JP_Desktop\\Universidad\\Semestre-5\\Construccion\\Visual_Studio_Proyectos\\Sockets\\Sockets\\Sockets.csproj",
+      "projectName": "Sockets",
+      "projectPath": "C:\\Users\\yo\\Desktop\\JP_Desktop\\Universidad\\Semestre-5\\Construccion\\Visual_Studio_Proyectos\\Sockets\\Sockets\\Sockets.csproj",
+      "packagesPath": "C:\\Users\\yo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yo\\Desktop\\JP_Desktop\\Universidad\\Semestre-5\\Construccion\\Visual_Studio_Proyectos\\Sockets\\Sockets\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "System.Threading.RateLimiting": {
+            "target": "Package",
+            "version": "[7.0.0-rc.1.22426.10, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

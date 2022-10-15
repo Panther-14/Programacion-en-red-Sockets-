@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pTZxKLc/HHzWiFMHRnKV03dmeOxPQ50p6GT750KMCstrHDoES4lDMTf6GdF9K4kA1c9VgwD7x0KEWpYDYXtlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yo\\Desktop\\JP_Desktop\\Universidad\\Semestre-5\\Construccion\\Visual_Studio_Proyectos\\Sockets\\Sockets\\Sockets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yo\\.nuget\\packages\\system.threading.ratelimiting\\7.0.0-rc.1.22426.10\\system.threading.ratelimiting.7.0.0-rc.1.22426.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\bin\Debug\Servidor.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\bin\Debug\Servidor.pdb
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\obj\Debug\Servidor.exe
+C:\Users\yo\Desktop\JP_Desktop\Universidad\Semestre-5\Construccion\Visual_Studio_Proyectos\ConexionTCP\Servidor\obj\Debug\Servidor.pdb
